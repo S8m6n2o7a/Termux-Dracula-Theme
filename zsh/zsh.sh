@@ -1,8 +1,8 @@
 #!/bin/bash
 
 pkg update
-pkg install toilet
 toilet -f term -F border --gay "Hola, soy s8m6n2o7a mucho gusto"
+sleep 3
 #Installing zsh
 pkg install zsh
 #Installing Oh-My-Zsh
