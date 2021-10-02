@@ -1,6 +1,7 @@
 import os
 
-os.system("apt update")
+os.system("pkg update")
+os.system("pkg install toilet")
 zsh = input("Do you want to install zsh (Y/n): ")
 if zsh == "n":
     pass
