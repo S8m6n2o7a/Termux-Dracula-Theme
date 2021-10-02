@@ -22,5 +22,5 @@ vim = input("Do you want to install a amazing text editor with amazing theme (Y/
 if vim == "n":
     pass
 else:
-    os.system("cd vim && bash vim.bash")
+    os.system("cd vim && bash vim.sh")
     os.system("cd ..")
