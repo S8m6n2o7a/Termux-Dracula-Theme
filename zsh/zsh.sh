@@ -8,8 +8,6 @@ sleep 3
 pkg install -y zsh
 apt update --fix-missing
 #Installing Oh-My-Zsh
-rm ~/.zshrc
-cp .zshrc $HOME
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 apt update --fix-missing
 #Installing Dracula theme
@@ -19,4 +17,6 @@ cd zsh && cp dracula.zsh-theme ~/.oh-my-zsh/themes/
 apt update --fix-missing
 cp -rf lib ~/.oh-my-zsh/themes
 apt update --fix-missing
+rm ~/.zshrc
+cp .zshrc $HOME/
 toilet -f term -F border --gay "Mucho"
