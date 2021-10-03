@@ -11,8 +11,7 @@
 
 ## #Vim
 <img src="images/vim.gif" width="400" height="700">
-<img src="images/vim1.jpg" width="400" height="700">
-<img src="images/vim2.jpg" width="400" height="700">
+
 
 ## #Zsh
 <img src="images/zsh.jpg" width="400" height="700">
