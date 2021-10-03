@@ -6,9 +6,11 @@
 ### #This repo is only change your termux normal theme into Dracula theme
 
 ## #Termux
+<img src="images/install.gif" width="400" height="700">
 <img src="images/neofetch.jpg" width="400" height="700">
 
 ## #Vim
+<img src="images/vim.gif" width="400" height="700">
 <img src="images/vim1.jpg" width="400" height="700">
 <img src="images/vim2.jpg" width="400" height="700">
 
