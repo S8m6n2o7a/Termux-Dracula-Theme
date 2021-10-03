@@ -14,7 +14,13 @@
 ## Zsh
 <img src="images/zsh.jpg" width="400" height="700">
 
-## Steps are Given below
+## Automate
+
+```
+git clone https://github.com/S8m6n2o7a/Termux-Dracula-Theme.git && cd Termux-Dracula-Theme && python3 install.py
+```
+
+## Manual
 ```
 git clone https://github.com/S8m6n2o7a/Termux-Dracula-Theme.git
 cd Termux-Dracula-Theme
