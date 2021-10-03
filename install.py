@@ -33,5 +33,5 @@ else:
     os.system("apt update --fix-missing")
     os.system("cd zsh && bash zsh.sh")
     os.system("apt update --fix-missing")
-    os.system("cd ..")
+    os.system("cd")
     os.system("apt update --fix-missing")
