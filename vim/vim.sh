@@ -2,7 +2,7 @@
 
 pkg update
 apt update --fix-missing
-toilet -f term -F border --gay "Hola, soy s8m6n2o7a mucho gustov"
+toilet -f term -F border --gay "Hola, soy s8m6n2o7a mucho gusto"
 sleep 3
 pkg install -y vim
 apt update --fix-missing
