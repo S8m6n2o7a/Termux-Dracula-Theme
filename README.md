@@ -30,14 +30,14 @@ cd Termux-Dracula-Theme
 python3 install.py
 ```
 
-# #nota importante
+# #Nota importante
 ## This repo has an bug, When this Script is running then you will enterd into *zsh* shell then just simply exit from the *zsh* shell typing *exit* or press *ctrl + z / crtl + c/ ctrl + d* the Script will run Automatically
 
 ## #Requirements
 ### This is a python installer so, you just need  *Python*
 
 
-# #creditos
+# #Creditos
 
 - Dracula Original Site [Dracula](https://draculatheme.com/)
 
@@ -48,5 +48,5 @@ python3 install.py
 
 
 
-# #gracias por su visita
+# #Gracias Por Su Visita
 
