@@ -2,6 +2,8 @@ from shutil import copyfile, copytree
 import os
 import time
 
+
+os.system("pkg install toilet")
 BASEPATH = os.getcwd()
 
 scriptCreator= '''
